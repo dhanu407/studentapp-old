@@ -44,7 +44,7 @@ div.ex {
 					<td><input type="text" name="percent"/></td>
 				</tr>
 				<tr>
-					<td>Year passed</td>
+					<td>Year Passed</td>
 					<td><input type="text" name="yop"/></td>
 				</tr>
 			</table>
